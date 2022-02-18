@@ -1,0 +1,26 @@
+{
+  "name": "nextverify",
+  "version": "1.0.0",
+  "description": "A JavaScript libary for interacting with the nextverify Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextverify/nextverify-api.git"
+  },
+  "keywords": [
+    "nextverify",
+    "nextverify-api"
+  ],
+  "author": "IsEmil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nextverify/nextverify-api/issues"
+  },
+  "homepage": "https://github.com/nextverify/nextverify-api#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  }
+}
